@@ -1,5 +1,5 @@
 # E-HealthHub
-Hospital Management System using MySQL, Php and Bootstrap
+E-HealthHub using MySQL, Php and Bootstrap
 
 ## Need to work on:
 
